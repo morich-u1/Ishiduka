@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>石塚貴也 様 | 特別選考のご案内 - morich</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700;900&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans JP', sans-serif; background-color: #f8f9fa; color: #333; }
+        .morich-red { color: #E60012; }
+        .bg-morich-red { background-color: #E60012; }
+        .border-morich-red { border-color: #E60012; }
+        .morich-highlight { border: 2px solid #E60012; background-color: #fffafa; border-radius: 8px; padding: 1.5rem; position: relative; }
+        .morich-highlight::before { content: 'morichオススメPoint'; position: absolute; top: -14px; left: 20px; background: #E60012; color: #fff; padding: 2px 12px; font-weight: bold; font-size: 0.875rem; border-radius: 4px; }
+        .corporate-overview { background-color: #f0f4f8; border-radius: 8px; padding: 1.5rem; margin-top: 1rem; }
+        .external-link { transition: all 0.3s ease; }
+        .external-link:hover { opacity: 0.8; transform: translateY(-1px); }
+        .job-card { background: #ffffff; border-left: 5px solid #E60012; box-shadow: 0 2px 10px rgba(0,0,0,0.05); }
+    </style>
+</head>
+<body class="pb-20">
+
+    <header class="bg-white shadow-sm sticky top-0 z-50">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <img src="morich_logo.jpg" alt="morich" class="h-10 md:h-12">
+            <div class="text-right">
+                <p class="text-xs text-gray-500">Candidate Only</p>
+                <p class="font-bold text-sm md:text-base">石塚貴也 様</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 mt-8 max-w-5xl">
+        <section class="mb-12 text-center">
+            <h1 class="text-2xl md:text-3xl font-black mb-4">ご提案企業リスト</h1>
+            <p class="text-gray-600">石塚様のこれまでのご経験と、今後のキャリアビジョンに基づき、<br class="hidden md:block">morichが厳選した企業情報をご案内いたします。</p>
+        </section>
+
+        <div id="company1" class="mb-24 scroll-mt-20">
+            <div class="mb-2">
+                <span class="inline-block bg-black text-white text-xs font-bold px-3 py-1 rounded-full">CEOの右腕</span>
+                <span class="inline-block bg-gray-200 text-gray-700 text-xs font-bold px-3 py-1 rounded-full ml-1">M&A・新規事業</span>
+                <span class="inline-block bg-morich-red text-white text-xs font-bold px-3 py-1 rounded-full ml-1">成長率1位</span>
+            </div>
+
+            <h2 class="text-3xl md:text-4xl font-black morich-red mb-6 uppercase tracking-tight">カイテク株式会社</h2>
+
+            <div class="corporate-overview mb-8">
+                <h3 class="text-sm font-bold text-blue-900 mb-3 border-b border-blue-200 pb-1">Corporate Overview</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-y-2 text-sm">
+                    <div class="flex border-b border-gray-200 py-2">
+                        <span class="w-1/3 font-bold text-gray-600">本社住所</span>
+                        <span class="w-2/3">〒160-0022 東京都新宿区新宿1丁目23番1号 THE PORTAL 新宿御苑 2F</span>
+                    </div>
+                    <div class="flex border-b border-gray-200 py-2">
+                        <span class="w-1/3 font-bold text-gray-600">設立</span>
+                        <span class="w-2/3">2018年2月9日</span>
+                    </div>
+                    <div class="flex border-b border-gray-200 py-2">
+                        <span class="w-1/3 font-bold text-gray-600">従業員数</span>
+                        <span class="w-2/3">約52名（役員含む）</span>
+                    </div>
+                    <div class="flex border-b border-gray-200 py-2">
+                        <span class="w-1/3 font-bold text-gray-600">上場区分</span>
+                        <span class="w-2/3">未上場（N-1 / IPO準備中）</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-10 leading-relaxed text-gray-800">
+                <p class="whitespace-pre-wrap">「2050年に世界一幸せな超高齢社会をつくる」というビジョンのもと、介護・医療領域の人材不足解消に挑む2018年設立のHRテック企業で、介護・医療・看護領域に特化した単発・スポットワークマッチングサービス「カイテク」を展開しています。
+慢性的な人材不足という社会構造課題に対し、有資格者限定という独自モデルでアプローチしている点や勤務後5分以内の即時ペイメントや、足りないシフト枠をスポットワークと連携する仕組みなど、現場起点のプロダクト開発を進め、導入事業所は約2.1万、アプリDLは約110万人まで拡大。
+直近3期連続黒字、営業利益率10％超と、成長性と収益性を両立している点も特徴でIPOを目指しています。
+今後は介護・医療周辺領域への展開や新規事業、M&Aも視野に入れ、日本で成功モデルを築いた先の海外展開も見据えています。エリア展開も進行中で、介護人材市場の流動化を促進するインフラとしてのポジションを築きつつあります。
+
+デロイト トーマツ グループが2026年1月に発表したテクノロジー・メディア・通信業界における成長率ランキング「Technology Fast 50 2025 Japan」において、過去3決算期の収益（売上高）に基づく成長率1位を獲得されています。</p>
+            </div>
+
+            <div class="morich-highlight mb-12">
+                <div class="text-gray-800 text-sm md:text-base leading-relaxed">
+                    <p class="whitespace-pre-wrap font-medium">2018年2月9日の「福祉の日」に創業し、現在従業員数は役員含め約52名。
+2050年に「世界一幸せな超高齢社会」を目指し、「歳を重ねるほど、笑顔の人が増える社会」の実現、日本が世界のロールモデルになるための「立役者」にカイテクの全従業員で取り組んでいらっしゃいます。
+デロイトトーマツグループが2026年1月に発表したテクノロジー・メディア・通信業界における成長率のランキング「Technology Fast 50 2025 Japan」において、過去3決算期の収益（売上高）に基づく成長率1,616％を記録し、見事１位を受賞！
+直近3期連続で黒字化、営業利益率は10％超と黒字・利益率も確保している成長著しい企業です！
+
+カイテク社の強みは以下3点です
+①「埋蔵労働時間」の掘り起こしによる圧倒的なマッチング量
+独自のテクノロジーで可視化。登録ワーカー数約100万人、登録施設数20,000所以上の国内最大級のプラットフォームへと成長し、最短数分での即時マッチングの実現。
+②「有資格者100％」と「相互評価」による品質の担保
+面接不要ながらも高い就業品質を維持する仕組みによる、介護施設・病院・薬局など幅広い現場からの信頼獲得。
+③行政連携を通じた社会インフラとしての確立
+大阪府や豊田市との連携協定締結を通じた、公式インフラとしての採択。
+
+そして現状の課題は、既存事業は顕著に成長しているが、IPOを目指すなかで第二・第三の収益柱の創出が不可欠。
+新規事業立ち上げ・M&A検討を同時進行で進めるための組織強化・採用が課題となっています。</p>
+                </div>
+            </div>
+
+            <div class="bg-gray-50 rounded-lg p-6 mb-10 border border-gray-100">
+                <h3 class="font-bold text-lg mb-4 flex items-center">
+                    <span class="w-1 h-6 bg-gray-400 mr-3"></span>代表プロフィール
+                </h3>
+                <div class="flex flex-col md:flex-row gap-6">
+                    <div class="flex-1">
+                        <p class="font-bold text-gray-900 mb-2">代表取締役社長　武藤 高史 氏</p>
+                        <p class="text-sm text-gray-700 leading-relaxed">
+                            1988年生まれ。立命館大学大学院情報理工学研究科を修了後、新卒で富士ゼロックス株式会社に入社後、エムスリー株式会社に参画。
+                            祖父母の介護をきっかけに、日本が直面する介護・医療人材不足という社会課題の解決を志し、2018年に同社を創業。
+                            外部では講演や書籍寄稿なども行い、介護・医療分野の新しい働き方を提案する起業家としても注目されています。
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="job-card p-6 md:p-8 mb-10">
+                <h3 class="text-xl font-black mb-6">事業戦略・事業開発(M&A・新規事業を牽引し、売上成長を実現するCEOの右腕)</h3>
+                <div class="space-y-6">
+                    <div>
+                        <h4 class="font-bold text-morich-red mb-2 italic">■募集背景／仕事内容</h4>
+                        <p class="text-sm leading-relaxed whitespace-pre-wrap">介護・医療分野における事業拡大に伴い、M&A・新規事業を戦略的にリードし、既存事業の延長線上にはない、非連続的な成長を推進していただきます。
+
+ビジョン・ミッションに共感いただき、戦略をゼロから構築し、代表取締役の右腕として、M&Aと新規事業を強力に実行・推進できる「戦略的パートナー」を求めています 。
+
+【主な業務内容】
+・M&A戦略の立案、ターゲット選定、デューデリジェンス、交渉、実行
+・M&A後のPMI（Post-Merger Integration）の計画策定および実行の最高責任
+・新規事業、新部門、新プロジェクトのインキュベーション（立ち上げ）業務
+・全社中長期経営戦略の立案、事業計画の策定、および経営数値のモニタリング
+・既存事業と新規事業/M&A先との部門横断的なシナジー創出</p>
+                    </div>
+                    <div>
+                        <h4 class="font-bold text-morich-red mb-2 italic">■PRポイント(働きがい)</h4>
+                        <p class="text-sm leading-relaxed whitespace-pre-wrap">・裁量と責任： 戦略の立案と実行に最終責任を負う、経営の中核そのものであり、代表取締役のパートナーとして全社を動かすダイナミズムを実感できます。
+・当社の未来を描く経験：新規ポジションであり、M&A・新規事業という今後の成長を担う重要な挑戦を自ら創造できます。
+・非連続成長の実現：自らの手で会社を成長へと導いたという具体的かつ強烈な成功体験をキャリアに刻むことができます。</p>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm bg-gray-50 p-4 rounded">
+                        <div>
+                            <p class="font-bold border-b border-gray-200 mb-1">勤務地</p>
+                            <p>東京（ハイブリッド勤務可）</p>
+                        </div>
+                        <div>
+                            <p class="font-bold border-b border-gray-200 mb-1">副業</p>
+                            <p>条件によって可</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex flex-wrap gap-3">
+                <a href="https://corp.caitech.co.jp/" target="_blank" class="external-link bg-white border border-gray-300 px-4 py-2 rounded text-sm font-bold flex items-center shadow-sm">
+                    コーポレートサイト
+                </a>
+                <a href="https://prtimes.jp/main/html/rd/p/000000032.000043426.html" target="_blank" class="external-link bg-white border border-gray-300 px-4 py-2 rounded text-sm font-bold flex items-center shadow-sm text-blue-600">
+                    Technology Fast 50 受賞記事
+                </a>
+                <a href="https://docs.google.com/presentation/d/e/2PACX-1vSQUpcwF2n-OuSsajkugW0ixfr_QI5FPRfTt70YPQU7u5XTiwUZitHswzrjc6GnOJvzJ58HcQhQI27_/pub?start=false&loop=false&delayms=3000&slide=id.g3884d2b72ef_0_701" target="_blank" class="external-link bg-morich-red text-white px-4 py-2 rounded text-sm font-bold flex items-center shadow-sm">
+                    会社説明資料 (Google Slide)
+                </a>
+            </div>
+        </div>
+
+        <hr class="border-gray-200 my-16">
+
+    </main>
+
+    <footer class="text-center text-gray-400 text-xs py-10 border-t border-gray-100">
+        &copy; morich Co., Ltd. All Rights Reserved.
+    </footer>
+
+</body>
+</html>
